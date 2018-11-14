@@ -30,7 +30,7 @@
                 <?php endif; ?>
 
                 <h2>Pé na porta, gaveta na cara!</h2>
-                <p>Todo sábado, às 19h no nosso canal no youtube!</p>
+                <p>Todo sábado, às 19h no nosso canal no youtube! Agora sem barriga!</p>
                 <a href="https://www.youtube.com/user/andersongaveta" class="custom-botao">Acesse já!</a>
 
             </div>
